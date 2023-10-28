@@ -1,0 +1,24 @@
+# This is a YAML configuration file example
+
+# Scalars
+name: John Doe
+age: 30
+city: New York
+
+# Lists
+fruits:
+  - apple
+  - banana
+  - cherry
+
+# Nested structures
+address:
+  street: 123 Main St
+  city: Smallville
+  zip: '12345'
+
+# Boolean values
+isStudent: true
+
+# Null value
+website: null
